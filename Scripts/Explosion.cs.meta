@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d8448a429f7762244876f48a36e2aa81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _cameraShake: {fileID: 3292167376679107187, guid: ef3d23d1128843448a5fe432bba9f3fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
